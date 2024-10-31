@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|c:\\users\\gilbe\\onedrive\\escritorio\\programacion\\t\u00F3picos avanzados de programaci\u00F3n\\guarderia\\guarderia\\pagorealizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|solutionrelative:guarderia\\pagorealizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|c:\\users\\gilbe\\onedrive\\escritorio\\programacion\\t\u00F3picos avanzados de programaci\u00F3n\\guarderia\\guarderia\\pagomatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|solutionrelative:guarderia\\pagomatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|c:\\users\\gilbe\\onedrive\\escritorio\\programacion\\t\u00F3picos avanzados de programaci\u00F3n\\guarderia\\guarderia\\pagorealizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|solutionrelative:guarderia\\pagorealizado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|c:\\users\\gilbe\\onedrive\\escritorio\\programacion\\t\u00F3picos avanzados de programaci\u00F3n\\guarderia\\guarderia\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|solutionrelative:guarderia\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|c:\\users\\gilbe\\onedrive\\escritorio\\programacion\\t\u00F3picos avanzados de programaci\u00F3n\\guarderia\\guarderia\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|solutionrelative:guarderia\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|c:\\users\\gilbe\\onedrive\\escritorio\\programacion\\t\u00F3picos avanzados de programaci\u00F3n\\guarderia\\guarderia\\pagomatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|solutionrelative:guarderia\\pagomatricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|c:\\users\\gilbe\\onedrive\\escritorio\\programacion\\t\u00F3picos avanzados de programaci\u00F3n\\guarderia\\guarderia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|solutionrelative:guarderia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|c:\\users\\gilbe\\onedrive\\escritorio\\programacion\\t\u00F3picos avanzados de programaci\u00F3n\\guarderia\\guarderia\\tutoralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|solutionrelative:guarderia\\tutoralumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|c:\\users\\gilbe\\onedrive\\escritorio\\programacion\\t\u00F3picos avanzados de programaci\u00F3n\\guarderia\\guarderia\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|solutionrelative:guarderia\\tutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|c:\\users\\gilbe\\onedrive\\escritorio\\programacion\\t\u00F3picos avanzados de programaci\u00F3n\\guarderia\\guarderia\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|solutionrelative:guarderia\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|c:\\users\\gilbe\\onedrive\\escritorio\\programacion\\t\u00F3picos avanzados de programaci\u00F3n\\guarderia\\guarderia\\costo mensual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|solutionrelative:guarderia\\costo mensual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|c:\\users\\gilbe\\onedrive\\escritorio\\programacion\\t\u00F3picos avanzados de programaci\u00F3n\\guarderia\\guarderia\\alergias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|solutionrelative:guarderia\\alergias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|c:\\users\\gilbe\\onedrive\\escritorio\\programacion\\t\u00F3picos avanzados de programaci\u00F3n\\guarderia\\guarderia\\costo mensual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|solutionrelative:guarderia\\costo mensual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|c:\\users\\gilbe\\onedrive\\escritorio\\programacion\\t\u00F3picos avanzados de programaci\u00F3n\\guarderia\\guarderia\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}|Guarderia\\Guarderia.csproj|solutionrelative:guarderia\\comida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PagoRealizado.cs",
+              "DocumentMoniker": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\PagoRealizado.cs",
+              "RelativeDocumentMoniker": "Guarderia\\PagoRealizado.cs",
+              "ToolTip": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\PagoRealizado.cs*",
+              "RelativeToolTip": "Guarderia\\PagoRealizado.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwD0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:27:10.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PagoRealizado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\PagoRealizado.cs",
+              "RelativeDocumentMoniker": "Guarderia\\PagoRealizado.cs",
+              "ToolTip": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\PagoRealizado.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Guarderia\\PagoRealizado.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:58:42.948Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comida.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Comida.cs",
+              "RelativeDocumentMoniker": "Guarderia\\Comida.cs",
+              "ToolTip": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Comida.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Guarderia\\Comida.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:34:30.063Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alumno.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Alumno.cs",
+              "RelativeDocumentMoniker": "Guarderia\\Alumno.cs",
+              "ToolTip": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Alumno.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Guarderia\\Alumno.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:58:32.166Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagoMatricula.cs",
+              "DocumentMoniker": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\PagoMatricula.cs",
+              "RelativeDocumentMoniker": "Guarderia\\PagoMatricula.cs",
+              "ToolTip": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\PagoMatricula.cs*",
+              "RelativeToolTip": "Guarderia\\PagoMatricula.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAIAwwDkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:12:28.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagoMatricula.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\PagoMatricula.cs",
+              "RelativeDocumentMoniker": "Guarderia\\PagoMatricula.cs",
+              "ToolTip": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\PagoMatricula.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Guarderia\\PagoMatricula.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:58:41.156Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Form1.cs",
+              "RelativeDocumentMoniker": "Guarderia\\Form1.cs",
+              "ToolTip": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Guarderia\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:58:38.557Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TutorAlumno.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\TutorAlumno.cs",
+              "RelativeDocumentMoniker": "Guarderia\\TutorAlumno.cs",
+              "ToolTip": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\TutorAlumno.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Guarderia\\TutorAlumno.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T16:18:57.833Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tutor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Tutor.cs",
+              "RelativeDocumentMoniker": "Guarderia\\Tutor.cs",
+              "ToolTip": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Tutor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Guarderia\\Tutor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:58:44.433Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Alumno.cs",
+              "RelativeDocumentMoniker": "Guarderia\\Alumno.cs",
+              "ToolTip": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Alumno.cs",
+              "RelativeToolTip": "Guarderia\\Alumno.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwFgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:59:06.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Costo Mensual.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Costo Mensual.cs",
+              "RelativeDocumentMoniker": "Guarderia\\Costo Mensual.cs",
+              "ToolTip": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Costo Mensual.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Guarderia\\Costo Mensual.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:54:07.891Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Alergias.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Alergias.cs",
+              "RelativeDocumentMoniker": "Guarderia\\Alergias.cs",
+              "ToolTip": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Alergias.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Guarderia\\Alergias.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:58:29.688Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Costo Mensual.cs",
+              "DocumentMoniker": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Costo Mensual.cs",
+              "RelativeDocumentMoniker": "Guarderia\\Costo Mensual.cs",
+              "ToolTip": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Costo Mensual.cs",
+              "RelativeToolTip": "Guarderia\\Costo Mensual.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAD4v3oAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:54:12.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Comida.cs",
+              "DocumentMoniker": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Comida.cs",
+              "RelativeDocumentMoniker": "Guarderia\\Comida.cs",
+              "ToolTip": "C:\\Users\\gilbe\\OneDrive\\Escritorio\\Programacion\\T\u00D3PICOS AVANZADOS DE PROGRAMACI\u00D3N\\Guarderia\\Guarderia\\Comida.cs",
+              "RelativeToolTip": "Guarderia\\Comida.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAD4v2oAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T00:25:32.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

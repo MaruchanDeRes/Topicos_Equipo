@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guarderia", "Guarderia\Guarderia.csproj", "{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59ADE679-B2B9-47D5-B5CF-3DEAFA84A077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7452BEAF-C116-4D8B-9365-5E0DD27971D0}
+	EndGlobalSection
+EndGlobal
